@@ -1,0 +1,19 @@
+{
+    "token": "YOUR_DISCORD_BOT_TOKEN",
+    "prefix": "!",
+    "admin_role_id": null,
+    "log_channel_id": null,
+    "private_channel_id": null,
+    "server_id": null,
+    "main_guild_ip": "your.server.ip",
+    "main_guild_port": 25565,
+    "anti_spam_settings": {
+        "max_messages": 5,
+        "time_window": 10,
+        "mute_duration": 60
+    },
+    "auto_wiggle": {
+        "enabled": true,
+        "interval": 10
+    }
+}
